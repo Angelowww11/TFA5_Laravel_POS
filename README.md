@@ -54,3 +54,7 @@ The application is prepared for local use. Hosting is pending. Screenshots and t
 - https://laravel.com/docs/12.x/installation
 - https://laravel.com/docs/12.x/routing
 - https://laravel.com/docs/12.x/blade
+
+## Visual design
+
+Botanical editorial styling inspired by [Vivid Website by BL/S](https://dribbble.com/shots/27544505-Vivid-Website), with original generated landscape artwork, Cormorant Garamond headings and Manrope text. Motion includes drifting artwork, pointer parallax, circular line rotation, and gentle section entrances. Pause motion saves the preference; reduced motion settings are respected. Existing application behavior and data sources are preserved.
