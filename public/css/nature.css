@@ -1,5 +1,5 @@
 /* Vivid-inspired botanical identity, adapted to the account directory. */
-@import url('./nature-motion.css');
+@import url('./nature-motion.css?v=b6c1b889964b');
 :root{--ink:#192319;--muted:#657065;--teal:#536c36;--paper:#eeefe5;--line:#cbd2bf;--mint:#e1e6d3;--display:'Cormorant Garamond',Georgia,serif}
 html{scroll-behavior:smooth}body{font-family:'Manrope','Segoe UI',sans-serif;background:var(--paper);font-size:14px}
 h1,h2,h3{font-family:var(--display);font-weight:500;letter-spacing:-.045em}h1{font-size:clamp(3.8rem,7vw,6rem);line-height:.9}h2{font-size:2.5rem}h3{font-size:1.8rem}.lead{line-height:1.8}
